@@ -4,7 +4,7 @@
 
 ![封面](cover.png)
 
-**用2000年前的战略智慧，解决今天的商业问题。**
+**把春秋战场的胜负手，变成AI的商业诊断书。**
 
 适用于 ChatGPT · Claude · Cursor · Coze · WorkBuddy · 所有AI工具
 
